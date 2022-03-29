@@ -4,10 +4,10 @@
   "description": "Typescript SDK to create and interact with Rosetta API implementations.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fboucquez/rosetta-sdk-typescript.git"
+    "url": "git+https://github.com/murtycodes/rosetta-sdk-typescript.git"
   },
   "bugs": {
-    "url": "https://github.com/fboucquez/rosetta-sdk-typescript"
+    "url": "https://github.com/murtycodes/rosetta-sdk-typescript"
   },
   "author": {
     "email": "fboucquez@gmail.com",
@@ -22,7 +22,7 @@
     "coinbase",
     "typescript"
   ],
-  "homepage": "https://github.com/fboucquez/rosetta-sdk-typescript",
+  "homepage": "https://github.com/murtycodes/rosetta-sdk-typescript",
   "main": "./dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
   "scripts": {

@@ -12,7 +12,7 @@ Typescript SDK to create and interact with Rosetta API implementations (WORK IN 
 
 [![Version](https://img.shields.io/npm/v/rosetta-sdk-typescript.svg)](https://npmjs.org/package/rosetta-sdk-typescript)
 [![Downloads/week](https://img.shields.io/npm/dw/rosetta-sdk-typescript.svg)](https://npmjs.org/package/rosetta-sdk-typescript)
-[![License](https://img.shields.io/npm/l/rosetta-sdk-typescript.svg)](https://github.com/fboucquez/rosetta-sdk-typescript/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/rosetta-sdk-typescript.svg)](https://github.com/murtycodes/rosetta-sdk-typescript/blob/master/package.json)
 [![Build Status](https://travis-ci.com/fboucquez/rosetta-sdk-typescript.svg?branch=main)](https://travis-ci.com/fboucquez/rosetta-sdk-typescript)
 [![Coverage Status](https://coveralls.io/repos/github/fboucquez/rosetta-sdk-typescript/badge.svg?branch=main)](https://coveralls.io/github/fboucquez/rosetta-sdk-typescript?branch=main)
 [![Api Doc](https://img.shields.io/badge/api-doc-blue.svg)](https://fboucquez.github.io/rosetta-sdk-typescript/)
