@@ -33,7 +33,7 @@ const defaultServerParams: Partial<RosettaServerParams> = {
     ignorePaths: ['/robots.txt'],
 };
 
-const apiSpec = join(__dirname, '../../api.json');
+export const apiSpec = join(__dirname, '../../api.json');
 if (!fileExistsSync(apiSpec)) {
     throw new Error(`${apiSpec} does not exist!`);
 }
